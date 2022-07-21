@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @raybarkerrr
-- 👀 I’m interested in learning how to become a software engineer/programmer.
-- 🌱 I’m currently learning HTML, then I'll move on to C and JavaScript
-- 💞️ I’m looking to collaborate on front-end website development 
-- 📫 How to reach me at raybarkerrr@gmail.com
+ Hi, I’m Ray Barker,
+ I'm a Front-End Developer who specializes in HTML, CSS, and JavaScript
+
+ If you need to get in contact with me, my LinkedIn is Ray Barker andraybarkerrr@gmail.com
 
 <!---
 raybarkerrr/raybarkerrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
